@@ -1,6 +1,6 @@
 # NanoChat Manim Video
 
-A 3Blue1Brown-style educational video explaining [Karpathy's nanochat](https://github.com/karpathy/nanochat) repository using [Manim](https://www.manim.community/).
+A 3Blue1Brown-style educational video explaining [Karpathy's nanochat](https://github.com/karpathy/nanochat) repository using Manim.
 
 ## 🎬 Watch the Video
 
