@@ -1,3 +1,9 @@
+## 🎧 Vibe Coding Disclaimer
+
+**Disclaimer**  
+This repository **was created using vibe coding**.
+
+
 # NanoChat Manim Video
 
 A 3Blue1Brown-style educational video explaining [Karpathy's nanochat](https://github.com/karpathy/nanochat) repository using Manim.
